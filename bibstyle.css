@@ -96,3 +96,7 @@ img.bibbase_icon:hover {
 .bibbase_paper_content {
     font-size: LARGE;
 }
+
+body {
+    background-color: lightblue;
+}
